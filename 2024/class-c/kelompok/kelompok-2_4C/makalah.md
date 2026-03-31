@@ -108,6 +108,31 @@ Selain itu, dalam The Consumer Society: Mythys and Structures (1970), Baudrillar
 
 Pandangan ini juga di dukung oleh Ronald Barthes dalam bukunya Mythologies yang menyatakan bahwa mitos adalah cara budaya mengubah sesuatu yang sebenarnya historis dan konstruktif menjadi tampak alami dan tidak terbantahkan. Dalam konteks teknologi, masyaarakat sering melihat perkembangan teknologi sebagai sesuatu yang "sudah sewajarnya" dan tidak bisa dihindari, padahal hal tersebut merupakan hasil kontruksi sosial dan kepentingan tertentu.
 
+2.2 Subtansi teknologi dalam persfektif hiperrealitas
+
+Di era pascamodern, teknologi tidak hanya berfungsi sebagai alat. Ia telah berubah menjadi perantara yang ikut mendefinisikan, membangun, dan terkadang menggantikan apa yang kita sebut realitas. Pemikiran ini berkaitan erat dengan karya Jean Baudrillard, filsuf Prancis yang banyak menelaah hubungan antara tanda, simbol, dan realitas dalam masyarakat postmodern. Lahir pada 20 Juni dan wafat 6 Juni 2007, Jean Baudrillard memberi kita konsep hiperrealitas yang sampai sekarang sering dipakai untuk menjelaskan dalam dunia bermedia tinggi.
+
+Dalam buku Simulacra dan Simulation, Baudrillard menggambarkan hiperrealitas sebagai kondisi di mana realitas "asli" sudah jarang muncul, yang kita temui adalah representasi semacam versi ulang yang lama-kelamaan menempati posisi realitas itu sendiri. Dia menulis bahwa "The simulacrum is never what hides the truth, it is truth that hides the fact that there is none. The simulacrum is true" (Baudrillard, 1981), maksudnya yaitu batas antara kebenaran dan simulasi telah runtuh sehingga simulasi itu sendiri diakui sebagai kenyataan.
+
+Fenomena ini muncul ketika suatu representasi terus diproduksi berulang-ulang sampai kehilangan keterkaitannya dengan realitas yang awal pada titik, sehingga yang tersisa bukan realitas yang menjadi rujukan melainkan tiruan yang berdiri sendiri. Kita sebagai manusia lebih sering berinteraksi dengan representasi yang dibentuk teknologi daripada dengan dunia langsung. Ironisnya representasi itu sering terasa lebih meyakinkan bahkan "lebih nyata" daripada pengalaman langsung. Jadi dalam kerangka hiperrealitas teknologi sudah jauh melampaui fungsi alat, ia juga ikut merancang apa yang kita anggap nyata.
+
+1. Realitas Tergantikan oleh Simulasi
+
+Baudrillard berargumen bahwa realitas perlahan digeser oleh simulasi. Menurutnya "Simulation is no longer that of a terriorty, it is the generation by models of a real without origin or reality: hyperreal" (Baudrillard 1981). Dengan kata lain simulasi bukan sekedar meniru, ia menciptakan realitas baru yang tak lagi jelas asal-usulnya. Di sini peran teknologi terutama media digital sangat sentral. Banyak pengalaman manusia sekarang dimediasi oleh layar, gambar, dan teks sehingga apa yang kita sebut "realitas" sudah melalui proses rekayasa sebelumnya. Contohnya orang cenderung percaya informasi yang mereka temukan daring, juga terkadang lebih daripada pengalaman langsung tanda bahwa realitas yang dibentuk telnologi mulai menggantikan realitas primer.
+
+2. Tanda dan Simbol menjadi realitas itu sendiri
+
+Menurut Baudrillard tanda tidak selalu berfungsi sebagai representasi. Dia mengatakan bahwa masalahnya "is no longer a question of imitation, but of substituting the sings of the real for the real itself" (Baudrillard 1981). Artinya tanda dan simbol sering kali tidak hanya menggambarkan realitas, terkadang mereka menggantikan realitas tersebut. Teknologi memungkinkan produksi simbol dalam skala besar media sosial, iklan, film, dan platform digital lainnya memproduksi citra yang kerap tampak lebih menarik dan sempurna daripada kondisi faktual. Akibatnya banyak orang menerima simbol itu sebagai kenyataan realitas fisik menjadi kurang relevan dibanding realitas simbolik.
+
+3. Teknologi Menyatu dengan Realitas
+
+Dalam kondisi hiperrealitas, teknologi tidak lagi berdiri di luar kehidupan manusia tetapi ia menyatu. Baudrillard menggambarkan dunia yang dipenuhi simulasi, Dimana batas antara nyata dan tidak nyata mengabur. Ia menyebutnya "More real than real" (Baudrillard 1981). Kita lihat ini dalam praktik sehari-hari seperti komunikasi, pekerjaan, hubungan sosial banyak berlangsung diruang digital. Kadang pengalaman digital terasa lebih kuat daripada pengalaman langsung, yang menunjukan bahwa teknologi menjadi bagian sari apa yang kita sebut realitas.
+
+4. Simulacra sebagai Bentuk Dominan Realitas
+
+Konsep penting lainnya adalah simulacra, yaitu tiruan yang tidak lagi memiliki hubungan jelas dengan realitas aslinya. Baudrillard memberi gambaran bahwa "it is the map that precedes the territory" (Baudrillard 1981), yang artinya representasi datang lebih dulu dari pada kenyataan yang dipresentasikan. Dalam konteks teknologi, simulacra terlihat pada identitas digital di media sosial atau citra diri di online yang dibentuk sengaja. Hal semacam itu belum tentu mencerminkan kondisi faktual, tetapi tetap diperlukan sebagai nyata. Dengan kata lain, masyarakat hidup di antara representasi yang menutupi atau menggantikan realitas.
+
+Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekedar sebagai alat bantu. Perannya berkembang jauh lebih besar, sampai ikut membentuk apa yang kita anggap sebagai realitas lewat berbagai simulasi yang kadang justru terasanlebih meyakinkan daripada kenyataan aslinya. Akibatnya batas antara mana yang fakta dan mana yang sekedar hasil rekayasa makin sulit dibedakan, dan ini tentu membuka peluan lebih besar untuk manipulasi informasi. Dalam situasi seperti ini cara kita memahami dunia pun ikut berubah, sehingga kemampuan berpikir kritis menjadi hal yang penting supaya kita tidak mudah terjebak dalam realitas yang samar di era hiperrealitas.
 
 
 
