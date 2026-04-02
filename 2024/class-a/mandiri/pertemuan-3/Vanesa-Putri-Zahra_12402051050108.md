@@ -1,8 +1,8 @@
-**Nama: Vanesa Putri Zahra**
-**NIM: 12402051050108**
-**Kelas: 4A**
+#####Nama: Vanesa Putri Zahra
+#####NIM: 12402051050108
+#####Kelas: 4A
 
-#BAGAIMANA MEMBATASI TEKNOLOGI DALAM KEHIDUPAN SEHARI HARI?
+##BAGAIMANA MEMBATASI TEKNOLOGI DALAM KEHIDUPAN SEHARI HARI?
 
 **LATAR BELAKANG**
   Tekonologi merupakan bagian dari karya ciptaan manusia yang kini telah mengalami perkembangan seiring perubahan zaman, teknologi terus membawa manusia pada kemajuan dari setiap segi kehidupan termasuk segi komunikasi dan interaksi sosial. Teknologi kini seakan jadi bagian yang sangat penting pada kehidupan sosial manusia dan memberi perubahan yang besar, sehingga manusia sulit hidup tanpa menggunakan teknologi (Safitri et al., 2023). Seperti pada saat zaman dahulu hampir dari setiap manusia bisa hidup tanpa teknologi di kehidupan mereka, tetapi sekarang dengan adanya perkembangan dari manusia itu sendiri dan teknologi yang terus berkembang pesat, menjadikan saat ini manusia begitu ketergantungan dengan teknologi maka bisa dikatakan bahwa teknologi saat ini mempunyai peranan yang dinilai yang sangat penting dan mempunyai pengaruh yang cukup besar bagi setiap manusia di seluruh dunia. Menurut pandangan filsafat, teknologi bukan hanya sekedar alat  atau mesin, melainkan sebuah fenomena sosial yang memengaruhi cara manusia berinteraksi, berkomunikasi, dan bahkan memahami realita di sekitarnya, karena salah satu peran utama teknologi salah satunya pada kehidupan sosial yaitu dapat mengubah pola interaksi manusia, internet, media sosial dan platform digital lainnya telah mempermudahkan dalam mendapatkan informasi dan komunikasi (Safitri et al., 2023). Seiring perkembangan zaman teknologi yang tadinya bertujuan untuk mempermudah aktivitas manusia, ironisnya, teknologi malah menciptakan kecemasan dalam kehidupan. Kehadiran perangkat elektronik seperti telepon, televisi, dan sebagainya telah membuat kita sebagai pengguna terlena dengan kecanggihannya, sehingga melupakan sekitar(Arivianto. et.al, 2022). Maka dari itu bagaimana kita membatasi teknologi dalam kehidupan sehari-hari agar hal tersebut tidak terjadi.
