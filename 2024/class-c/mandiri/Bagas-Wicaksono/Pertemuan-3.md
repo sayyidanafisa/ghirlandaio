@@ -1,4 +1,4 @@
-# Bagaimana Simulasi Mengubah Perspektif Manusia Terhadap Realitas
+# Bagaimana Simulasi Bisa Mengubah Perspektif Manusia Terhadap Realitas
 *Resume Hasil Presentasi Kelompok 2: Posisi Teknologi Sebagai Mitos dan Hiperrealitas Dalam Kehidupan Digital*
 
 ## Pendahuluan
