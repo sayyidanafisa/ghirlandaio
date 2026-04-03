@@ -17,7 +17,7 @@ Teknologi saat ini sudah menjadi bagian penting dalam hampir semua aktivitas man
 ## Kesimpulan
 Perkembangan teknologi membawa perubahan besar dalam dunia kerja dengan membuat berbagai pekerjaan menjadi lebih cepat dan efisien, sekaligus memunculkan tantangan berupa tergantikannya pekerjaan yang bersifat rutin. Namun, peran manusia tetap tidak tergantikan karena manusia berfungsi sebagai pengendali, pengambil keputusan, serta pengembang teknologi yang terus beradaptasi dengan perubahan zaman. Oleh karena itu, teknologi tidak menggantikan manusia, melainkan menjadi alat bantu yang mendukung manusia dalam menjalankan pekerjaan secara lebih mudah dan efektif.
 ## Daftar Pustaka
-Ananda Putra, R. (2024). Analisis Peran Teknologi dalam Meningkatkan Bidang Ketenagakerjaan di Era Modern. Jurnal Pengembangan Ketenagakerjaan, 2(1). https://doi.org/10.59574/jpk.v2i1.38
-Dian Sudiantini, Aura Naiwasha, Auranisa Izzati, Avrilia Ayunia W, Brilian Putri A, & Cindy Rindiani. (2023). Penggunaan Teknologi Pada Manajemen Sumber Daya Manusia Di Dalam Era Digital Sekarang. Digital Bisnis: Jurnal Publikasi Ilmu Manajemen Dan E-Commerce, 2(2), 262–269. https://doi.org/10.30640/digital.v2i2.1082
-Ngafifi, M. (2014). Kemajuan Teknologi Dan Pola Hidup Manusia Dalam Perspektif Sosial Budaya. Jurnal Pembangunan Pendidikan: Fondasi Dan Aplikasi, 2(1). https://doi.org/10.21831/jppfa.v2i1.2616
+Ananda Putra, R. (2024). Analisis Peran Teknologi dalam Meningkatkan Bidang Ketenagakerjaan di Era Modern. Jurnal Pengembangan Ketenagakerjaan, 2(1). https://doi.org/10.59574/jpk.v2i1.38.
+Dian Sudiantini, Aura Naiwasha, Auranisa Izzati, Avrilia Ayunia W, Brilian Putri A, & Cindy Rindiani. (2023). Penggunaan Teknologi Pada Manajemen Sumber Daya Manusia Di Dalam Era Digital Sekarang. Digital Bisnis: Jurnal Publikasi Ilmu Manajemen Dan E-Commerce, 2(2), 262–269. https://doi.org/10.30640/digital.v2i2.1082.
+Ngafifi, M. (2014). Kemajuan Teknologi Dan Pola Hidup Manusia Dalam Perspektif Sosial Budaya. Jurnal Pembangunan Pendidikan: Fondasi Dan Aplikasi, 2(1). https://doi.org/10.21831/jppfa.v2i1.2616.
 
