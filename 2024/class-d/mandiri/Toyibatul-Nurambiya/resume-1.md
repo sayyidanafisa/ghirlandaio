@@ -18,5 +18,5 @@ Sains memang telah menggantikan banyak peran mitos kuno dengan penjelasan rasion
 Sains dan sistem nilai itu sebenarnya saling terkait dan tidak selalu bertolak belakang. Sains memberi kita gambaran yang tepat tentang dunia nyata melalui cara ilmiah, namun kita tetap memerlukan arah batin yang berasal dari nilai-nilai dan makna hidup untuk mengetahui ke mana kita seharusnya pergi. Keduanya memiliki peran yang berbeda tetapi sama-sama penting dalam mendorong kemajuan peradaban manusia.
 ## Referensi
 1. Harari, Y. N (2017). Homo Deus: A Brief History of Tomorrow. Harper
-2. Semuel S. Lusi. (2020). Resensi Buku Homo Deus: Implikasi Logis dan Konsekuensi Tindakanya
+2. Semuel S. Lusi. (2020). Resensi Buku Homo Deus: Implikasi Logis dan Konsekuensi Tindakannya
 3. Kelompok 1. (2026). Hubungan Sains dan Agama (PowerPoint) 
