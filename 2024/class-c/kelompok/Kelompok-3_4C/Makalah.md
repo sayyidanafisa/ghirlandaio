@@ -42,8 +42,10 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 **<p align="center">BAB I</p>**
 **<p align="center">PENDAHULUAN</p>**
 
+<p align="justify">
 **1.1. Latar Belakang**
 
+<p align="justify">
 **1.2. Rumusan Masalah**
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang?
 2. Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang?
@@ -72,7 +74,18 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 **2.2. Pola Hubungan antara Swasta dan Teknologi pada Rentang Tahun 1960-Sekarang**
 
 
+  
 **2.3. Implementasi dan Kontribusi _Hacking Culture_ dalam Pengembangan Teknologi Modern**
+
+Pada buku _Troublemakers, hacking culture_ (budaya peretasan) merupakan awal munculnya industri komputer pribadi di Silicon Valley. Budaya ini diimplementasikan serta didorong oleh rasa ingin tahu dan keinginan untuk mendemostrasikan teknologi melalui komunitas. Komunitas tersebut seperti Homebrew Computer Club, dimana mereka memiliki kesabaran untuk mengetik rangkaian karakter panjang demi membuat komputer melakukan tugas yang paling sederhana. 
+
+Implementasi _hacking culture_ dalam praktik kerja menekankan eksplorassi dan eksperimen bebas. Di lingkungan seperti APRA dan Xerox PARC, para peneliti diberi kebebasan untuk mengembangkan ide-ide baru tanpa batasan birokrasi. Contohnya Bob Taylor yang secara sengaja melanggar prosedur formal di Pentagon demi mempercepat komunikasi dan pengambilan keputusan. Tindakan ini mencerminkan prinsip utama _hacking culture_, yaitu fokus pada solusi efektif daripada kepatuhan terhadap sistem yang kaku. _Hacking culture_ diimplementasikan melalui eksperimen mandiri dan kolaborasi komunitas yang inklusif.
+
+Sedangkan itu, Kontribusi _hacking culture_ terhadap teknologi modern adalah lahirnya teknologi dasar seperti internet melalui pengembangan ARPANET, komputer pribadi, jaringan internet, dan teknologi antarkemuka pengguna. Konsep "superkomunitas" yang dikembangkan oleh Bob Taylor menunjukkan bagaimana teknologi dapat menghubungkan manusia tanpa batas geografis. Mereka mengembangkan berbagi teknologi melalui pendekatan tanpa _trial and error_ yang menunjukkan kegagalan merupakan bagian dari proses inovasi. 
+
+Kontribusi bukan hanya berupa perangkat keras atau lunak saja, melainkan sebuah kerangka berpikir baru yang menempatkan teknologi di tangan individu. Budaya ini yang telah mengubah komputer dari sekedar "alat hitung" menjadi "alat komunikasi" dan kreativitas yang kita gunakan setiap hari dalam kehidupan modern. 
+
+_Hacking culture_ turut membentuk ekosistem Silicon Valley sebagai pusat inovasi global. Lingkungan yang mendukung kebebasan bereksperimen dan toleransi terhadap kegagalan memungkinkan para inovator untuk terus menciptakan teknologi baru.  
 
 
 **2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
