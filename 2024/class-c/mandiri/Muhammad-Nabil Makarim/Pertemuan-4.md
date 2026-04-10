@@ -24,7 +24,7 @@ Contoh ilustrasi dari Adam Smith yang paling dikenal untuk mengilustrasikan pend
 
 
 ## Kesimpulan 
-Menurut Adam Smith, asal utama inovasi teknologi adalah pembagian kerja atau division of labour. Spesialisasi mendorong pekerja, ppembuat mesin, dan "men of speculation" untuk menemukan cara-cara baru yang lebih efisien untuk mempermudah pekerjaan di bidang mereka masing-masing.
+Menurut Adam Smith, asal utama inovasi teknologi adalah pembagian kerja atau division of labour. Spesialisasi mendorong pekerja, ppembuat mesin, dan "philosopers and men of speculation" untuk menemukan cara-cara baru yang lebih efisien untuk mempermudah pekerjaan di bidang mereka masing-masing.
 
 ---
 ## Daftar Pusaka
