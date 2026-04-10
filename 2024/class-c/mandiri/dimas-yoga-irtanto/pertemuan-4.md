@@ -16,3 +16,10 @@ Negara juga berfungsi sebagai pembuat kebijakan dan regulator yang mengatur arah
 dalam era modern, hubungan ini semakin kompleks dengan munculnya isu-isu baru seperti keamanan data, privasi, dan dominasi perusahaan teknologi besar. Negara dituntut untuk tidak hanya mendukung inovasi, tetapi juga melindungi kepentingan publik. Hal ini menunjukkan bahwa peran negara terus berkembang seiring dengan kemajuan teknologi.
 
 ### KESIMPULAN
+
+
+Hubungan antara negara dan teknologi pada era modern merupakan hubungan yang saling bergantung dan saling memperkuat, di mana negara berperan sebagai penyedia fondasi melalui kebijakan, pendanaan, dan regulasi, sementara sektor teknologi mengembangkan serta mengimplementasikan inovasi tersebut dalam kehidupan masyarakat. Berdasarkan pemaparan dalam buku Troublemakers of Silicon Valley, keberhasilan perkembangan teknologi seperti di Silicon Valley tidak terlepas dari dukungan pemerintah, yang menunjukkan bahwa inovasi besar sering kali lahir dari kolaborasi antara sektor publik dan swasta. Oleh karena itu, sinergi yang seimbang antara negara dan teknologi menjadi kunci dalam menciptakan kemajuan yang berkelanjutan sekaligus mampu menjawab tantangan kompleks di era modern.
+
+---
+### DAFTAR PUSTAKA
+- Leslie Berlin. Troublemakers: Silicon Valley’s Coming of Age
