@@ -4,7 +4,7 @@
 
 
 ### Pendahuluan
-Karl Marx merupakan seorang filsuf, ekonom, dan ilmuwan sosial asal Jerman. Karyanya yang berjudul Das Kapital (1867), menjadi salah satu sumber paling berpengaruh dalam sejarah
+Karl Marx merupakan seorang filsuf, ekonom, dan ilmuwan sosial asal Jerman. Karyanya yang berjudul Das Kapital, menjadi salah satu sumber paling berpengaruh dalam sejarah
 pemikiran ekonomi sosial dunia. Dalam buku tersebut, Marx melakukan analisis mendalam terhadap sistem kapitalisme. Khususnya mengenai bagaimana sistem ini bekerja dan dampaknya
 terhadap kelas pekerja atau buruh.
 
@@ -47,4 +47,4 @@ kepemilikan, akses dan distribusi manfaat teknologi dalam masyarakat.
 
 ### Daftar Pustaka
 
-Marx,K. (1867). Das Kapital: Kritik der politischen Okonomie. Hamburg: Verlag von Otto Meissner.
+Marx, Karl. 2015. Das Kapital: Progress Publishers
