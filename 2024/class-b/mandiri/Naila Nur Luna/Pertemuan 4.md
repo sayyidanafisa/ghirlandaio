@@ -7,6 +7,8 @@ Kelas: 4B
 Hasil Resume Presentasi Kelompok 3 Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka
 
 ---
+## Bagaimana etos kerja budaya peretasan memengaruhi standar perusahaan startup ini?
+
 ## Pendahuluan  
 
 Kalau dilihat dari perkembangan teknologi, budaya kerja di perusahaan startup sebenarnya nggak muncul begitu aja. Ada pengaruh dari *hacking culture* yang berkembang di awal Silicon Valley. Dalam buku *The Innovators*, Walter Isaacson menjelaskan bahwa inovasi digital banyak lahir dari orang-orang yang suka bereksperimen, bekerja secara kolaboratif, dan tidak takut mencoba hal baru.  
