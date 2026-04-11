@@ -23,7 +23,6 @@ Di PPT juga sudah dijelaskan kalau pada era 1960-an, tepatnya pada Perang Dingin
 
 Kalau kita sambungkan dengan ide John Maynard Keynes, bentuk intervensi negara itu buat pacu ekonomi via belanja publik, termasuk di sektor teknologi. Di sisi lain, Adam Smith lewat The Wealth of Nations bilang negara punya tugas terbatas tapi esensial, seperti bikin infrastruktur dan institusi yang ngebantu inovasi jalan. Sedangkan Karl Marx di Das Kapital menghubungkan kemajuan teknologi dengan kapitalisme yang haus akan meningkatkan produktivitas demi untung lebih besar. Jadi, ledakan teknologi waktu itu lahir dari dukungan negara sebagai motor utama, plus dinamika pasar dan sistem ekonomi secara keseluruhan.
 
-
 ## Kesimpulan
 Dapat disimpulkan bahwa negara punya peran yang sangat besar di perkembangan teknologi era 1960-an, apalagi sebagai pemicu awal lewat suntikan dana riset dan kebijakan pro-inovasi, seperti yang digambarkan di Troublemakers: Silicon Valley’s Coming of Age. Sedangkan dari sudut pandang teori di The General Theory of Employment, Interest and Money, The Wealth of Nations, sampai Das Kapital, terlihat bahwa negara berfungsi sebagai penggerak ekonomi, penyedia infrastruktur dasar, dan elemen kunci dalam sistem yang mempengaruhi kemajuan teknologi. Maka dari itu, lonjakan teknologi waktu itu tidak semata-mata dari pasar atau ide orang perorangan, tapi campuran nyata antara aksi negara yang proaktif dan roda ekonomi yang lebih besar.
 
