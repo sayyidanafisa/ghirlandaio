@@ -1,7 +1,9 @@
-# Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam Pengelolaan Perpustakaan serta Arsip Digital
+<div align="center">
+<h1>Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam Pengelolaan Perpustakaan serta Arsip Digital</h1>
 Disusun untuk Memenuhi Tugas Mata Kuliah Perpustakaan dan Arsip Digital
-<p> Dosen Pengampu:</p>
-<b>Al Mudhil Karim S.Ip, M.Hum.</b>
+
+<b><p> Dosen Pengampu:</p></b>
+Al Mudhil Karim S.Ip, M.Hum.
 
 <img src="/2024/class-b/LOGO_UIN_JKT.png" width="500" height="600"><br><br>
 <br><br><br>
@@ -10,7 +12,56 @@ Dechri Vanesa Mecca (12402051010008)<br>
 Ananda Dwi Aryani (12402051030062)<br> 
 Hana Zada Videla (12402051050129)<br><br><br>
 <br>
-<b>PROGRAM STUDI ILMU PERPUSTAKAAN <br>
-FAKULTAS ADAD DAN HUMANIORA</br><br>
-<br>UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA</br><br>
+<b><p>PROGRAM STUDI ILMU PERPUSTAKAAN</p></b>
+<b><p>FAKULTAS ADAD DAN HUMANIORA</p></b>
+<b><p>UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA<p/></b>
 <b>2026</br><br>
+</div> 
+
+<div align="center">
+  <h1>KATA PENGANTAR</h1><br>
+</div>
+
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, karena atas rahmat dan karunia-Nya sehingga makalah yang berjudul "Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam pengelolaan Perpustakaan serta Arsip Digital" ini dapat diselesaikan dengan baik.
+
+Tidak lupa kami ucapkan terima kasih kepada Bapak  Al Muhdil Karim, S.IP, M.Hum. selaku dosen pengampu pada mata kuliah Perpustakaan dan Arsip Digital yang telah memberikan tugas ini, sehingga dapat menambah pengetahuan dan wawasan. Kami ucapkan terima kasih juga kepada semua pihak yang telah membantu dalam proses penyusunan makalah ini.
+
+Kami menyadari bahwa makalah ini masih jauh dari kata sempurna dan terdapat kekurangan di dalamnya. Untuk itu, kami mengharapkan kritik dan saran yang membangun akan kami nantikan demi kesempurnaan dalam membuat makalah di masa mendatang. Akhir kata, semoga makalah ini dapat bermanfaat bagi para pembaca. 
+
+<br>
+<br>
+<div align="right">
+  <p>Tangerang Selatan, 14 April 2026</p><br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p>Kelompok 4</p>
+</div>
+
+
+<div align="center">
+   <h1>BAB I</h1>
+   <h1>PENDAHULUAN</h1>
+</div>
+
+**1.1 Latar Belakang**
+
+**1.2 Rumusan Masalah**
+1. Bagaimana 5 evolusi hukum perpustakaan
+2. Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
+3. Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
+4. Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
+5. Jelaskan vektor dasar keamanan siber bagi perpustakaan atau arsip digital.
+6. Jelaskan faktor yang harus dikembangkan dan ditingkatkan dalam perpustakaan dan arsip digital.
+
+**1.3 Tujuan Penelitian**
+1. Untuk mengetahui  evolusi 5 hukum perpustakaan.
+2. Untuk memahami konsep cyberethic dan hubungannya dengan perpustakaan digital.
+3. Untuk mengidentifikasi prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital.
+4. Untuk menganalisis resiko keamanan perpustakaan dan arsip digital berdasarkan data historis.
+5. Untuk mengetahui vektor dasar keamanan siber bagi perpustakaan atau arsip digital.
+
+
+
+
