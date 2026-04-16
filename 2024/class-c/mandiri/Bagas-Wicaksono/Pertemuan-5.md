@@ -2,7 +2,7 @@
 *Resume Hasil Presentasi Kelompok 4: Perpustakaan dan Kearsipan Digital: Evolusi 5 Hukum, Prinsip Siber, dan Keamanan Data*
 
 ## Pendahuluan
-Dalam buku *The Five Law of Library Science tahun 1931* karya S. R. Ranganathan berisi gagasan fundamental terkait teori dan praktek dalam Ilmu Perpustakaan. Kelima Hukum tersebut muncul bukan hanya sekedar omongan tanpa dasar, melainkan lahir dari proses pemikiran, pengamatan, serta studi khusus Ranganathan mengenai *"Library Science and Library Organisation"* tepatnya di University of Madras Inggris. Resume ini membahas mulai dari awal terbentuknya kelima Hukum tersebut hingga penjelasan umum mengenai apa itu 5 Hukum Perpustakaan menurut Ranganathan. 
+Dalam buku *The Five Law of Library Science* tahun 1931 karya S. R. Ranganathan berisi gagasan fundamental terkait teori dan praktek dalam Ilmu Perpustakaan. Kelima Hukum tersebut muncul bukan hanya sekedar omongan tanpa dasar, melainkan lahir dari proses pemikiran, pengamatan, serta studi khusus Ranganathan mengenai *"Library Science and Library Organisation"* tepatnya di University of Madras Inggris. Resume ini membahas mulai dari awal terbentuknya kelima Hukum tersebut hingga penjelasan umum mengenai apa itu 5 Hukum Perpustakaan menurut Ranganathan. 
 
 ## Pembahasan
 ### Lahirnya 5 Hukum Perpustakaan
@@ -31,7 +31,7 @@ Artinya: "Hemat waktu untuk pembaca". Hukum keempat ini berasal dari slogan yang
 Artinya: "Sebuah perpustakaan adalah organisme yang bertumbuh". Jika hukum pertama sampai keempat membahas terkait fungsi dari sebuah perpustakaan, hukum kelima memberitahu kita tentang karakteristik penting dan abadi dari sebuah perpustakaan. Karena perpustakaan adalah sebuah institusi yang terus berkembang sehingga perlu adanya penyesuaian pandangan pustakawan secara berkala mengenai sebuah perpustakaan. Maksud dari hukum kelima adalah memperlihatkan fakta bahwa perpustakaan sebagai sebuah institusi yang memiliki semua atribut sebuah organisme yang tumbuh. Analogi organisme disini adalah perpustakaan itu sendiri, perpustakaan harus bisa beradaptasi dengan perkembangan zaman, karena perpustakaan adalah sebuah institusi yang terus bertumbuh dan menyesuaikan dengan kebutuhan pembaca serta perkembangan teknologi dan informasi di dunia.[^1]
 
 ## Kesimpulan
-
+Berdasarkan resume yang telah dibuat dapat disimpulkan bahwa 5 Hukum Perpustakaan menurut Ranganathan dalam bukunya yang berjudul*The Five Law of Library Science* tahun 1931 merupakan prinsip dasar dalam perpustakaan dari hasil pengamatan dan kritiknya terhadap sistem perpustakaan sebelum abad ke-20 yang masih bersifat tertutup karena berorientasi pada koleksi, bukan kepada pembaca. Ranganathan kemudian mencetuskan 5 Hukum tersebut untuk mengubah pandangan mengenai perpustakaan agar lebih mengedepankan pemanfaatan koleksi, pelayanan pemustaka/pembaca, dan efisiensi layanan agar perpustakaan dapat terus berkembang. 
 
 ---
 ## Daftar Pustaka
