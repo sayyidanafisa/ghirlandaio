@@ -13,4 +13,6 @@ Di sini bentuk kerentanannya ada
 3. Inside threat, Inside threat adalah ancaman yang berasal dari dalam/internal biasanya muncul dari dalam individu suatu organisasi yang menyalahgunakan hak akses yang diberikan untuk membahayakan keamanan baik, secara sengaja maupun tidak di sengaja
 4. Denial of service (Dos) dan Distributed denial of service (Ddos), adalah sesuatu yang mengganggu ketersedian layanan daring dengan melimpahkan sistem atau jaringan arus yang berbahaya. cara melimpahkannya yaitu kepada server perpustakaan dengan lalu lintas data yang sangat besar  sehingga membuat layanan lumpuh dan tidak dapat digunakan atau di akses oleh para pengguana
 ## Kesimpulan:
-
+Banyak bentuk kerentanan yang ada di perpustakaan digital, layanan perpustakaan digital akan tetap menghadapi beragam macam bentuk kerentanan. efeknya bagi perpustakaan adalah setiap bentuk kerentanan dapat menurunkan kepercayaan pengguna, menggangu akses layanan, dan juga menyebabkan kerugian finansial dan reputasi bagi perpustakaan itu sendiri. pengelolaan keamanan informasi yang menyeluruh melibatkan teknologi serta edukasi bagi para pustakawan menjadi syarat pening agar layanan perpustakaan digital tetap aman dan bisa dipercaya
+## Referensi :
+Makalah kelompok 4. Etika keamanan siber pada perpustakaan dan lembaga arsip digital: tantangan dan strategis
