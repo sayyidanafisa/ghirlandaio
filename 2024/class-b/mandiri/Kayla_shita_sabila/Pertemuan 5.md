@@ -25,3 +25,7 @@ Sistem akses terbuka ini dilakukan agar mudah diakses  oleh pemustaka, sehingga 
 # **KESIMPULAN**
 Pemustaka mendapatkan informasi kebutuhannya sesuai dengan penerapan raganathan no  dua “Every Reader his Book”. Dalam hal ini memandang semuanya secara setara tanpa pengecualian,karena semuannya berhak untuk mendapatkan informasi dan pengetahuan yang relevan. 
 Semuanya terjadi karena peranan pustakawan yang aktif dalam membantu pemustaka,penggunaan katalog untuk memudahkan pencarian informasi,penggunaan sistem akses terbuka yang dimanfaatkan dengan baik sehingga menghasilkan informasi yang cepat dan tepat serta dukugan negara terhadap perpustakaan.  
+
+--- 
+## **DAFTAR PUSTAKA**
+S. R. Ranganathan. (1931). The five laws of library science. Madras: Madras Library Association.
