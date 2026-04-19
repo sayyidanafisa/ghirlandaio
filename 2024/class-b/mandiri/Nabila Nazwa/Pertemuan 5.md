@@ -9,3 +9,5 @@ Selain itu, kemudahan akses juga sangat berpengaruh. Sistem layanan yang sederha
 Faktor lain yang penting adalah kualitas pelayanan dari pengelola layanan. Pengelola yang memiliki kemampuan dan pengetahuan yang baik dapat membantu pengguna dalam menemukan informasi yang diperlukan. Sikap yang ramah dan responsif juga dapat meningkatkan kepuasan pengguna.
 
 Kemudian keamanan dan kepercayaan juga menjadi bagian dari kualitas layanan. Jika pengguna merasa bahwa data dan informasi mereka aman, maka mereka akan lebih percaya untuk menggunakan layanan tersebut. Dengan adanya rasa aman dan nyaman, pengguna akan lebih sering memanfaatkan layanan yang tersedia.
+# Kesimpulan
+Peningkatan kualitas layanan dapat menarik lebih banyak pengguna karena layanan yang baik memberikan kemudahan, kenyamanan, dan rasa aman bagi pengguna. Beberapa upaya yang dapat dilakukan antara lain menyediakan informasi yang relevan, mempermudah akses layanan, meningkatkan kemampuan pengelola layanan, serta menjaga keamanan data pengguna. Dengan kualitas layanan yang semakin baik, minat pengguna untuk memanfaatkan layanan juga akan meningkat.
